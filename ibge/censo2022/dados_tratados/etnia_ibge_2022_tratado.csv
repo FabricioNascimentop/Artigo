@@ -1,7 +1,7 @@
-Codigo,Municipio,Branca,Preta,Amarela,Parda,Indígena,Total,RI,Ano
-000001,Pará,1570281,793621,12432,5673446,69180,8120131,,2022
+Codigo,Municipio,Branca,Preta,Amarela,Parda,Indigena,Total,RI,Ano
+1,Pará,1570281,793621,12432,5673446,69180,8120131,,2022
 150010,Abaetetuba (PA),29624,15895,107,112187,83,158188,Tocantins,2022
-150013,Abel Figueiredo (PA),1228,640,-,4258,10,6136,Rio Capim,2022
+150013,Abel Figueiredo (PA),1228,640,0,4258,10,6136,Rio Capim,2022
 150020,Acará (PA),5684,8503,65,44748,23,59023,Tocantins,2022
 150030,Afuá (PA),5470,2567,24,29690,12,37765,Marajó,2022
 150034,Água Azul do Norte (PA),4451,1829,13,11609,176,18080,Araguaia,2022
@@ -64,7 +64,7 @@ Codigo,Municipio,Branca,Preta,Amarela,Parda,Indígena,Total,RI,Ano
 150390,Juruti (PA),6241,2538,69,41921,112,50881,Baixo Amazonas,2022
 150400,Limoeiro do Ajuru (PA),5112,1146,2,23296,13,29569,Tocantins,2022
 150405,Mãe do Rio (PA),6601,2909,50,24779,13,34353,Rio Capim,2022
-150410,Magalhães Barata (PA),1314,379,-,6421,1,8115,Guamá,2022
+150410,Magalhães Barata (PA),1314,379,0,6421,1,8115,Guamá,2022
 150420,Marabá (PA),48548,26407,266,190750,552,266533,Carajás,2022
 150430,Maracanã (PA),4279,1361,5,20309,16,25971,Guamá,2022
 150440,Marapanim (PA),4166,1385,2,21013,7,26573,Guamá,2022

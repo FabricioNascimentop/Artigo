@@ -168,13 +168,29 @@ regioes = {
     "150445": "Xingu",  # MEDICILÂNDIA 
 }
 
+
 def data_to_ano(df):
     import pandas as pd
-    df['Data'] = pd.to_datetime(df['Data'], format="%m/%Y")
-    df["Ano"] = df["Data"].dt.year
-    df["Mes"] = df["Data"].dt.month
-    
+
+    df = df.copy()
+
+    # Converte Data
+    df['Data'] = pd.to_datetime(
+        df['Data'],
+        format='%m/%Y'
+    )
+
+    # Cria o ano
+    df['Ano'] = df['Data'].dt.year
+
+    # Mantém somente dezembro
+    df = df[df['Data'].dt.month == 12].copy()
+
+    # Remove Data
+    df = df.drop(columns='Data')
+
     return df
+
 
 def codigo_to_ri(df):
     df = df.copy()
