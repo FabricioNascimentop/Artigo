@@ -1,4 +1,4 @@
-Codigo,Municipio,Branca,Preta,Amarela,Parda,Indigena,Total,RI,Ano
+Codigo,Municipio,Branca,Preta,Amarela,Parda,Indígena,Total,RI,Ano
 150010,Abaetetuba (PA),30676,9038,797,100509,80,141100,Tocantins,2010
 150013,Abel Figueiredo (PA),1655,699,88,4327,11,6780,Rio Capim,2010
 150020,Acará (PA),5985,4081,556,42900,47,53569,Tocantins,2010
@@ -35,13 +35,13 @@ Codigo,Municipio,Branca,Preta,Amarela,Parda,Indigena,Total,RI,Ano
 150220,Capanema (PA),16764,2540,345,43879,111,63639,Rio Caeté,2010
 150230,Capitão Poço (PA),7648,1697,270,42221,57,51893,Rio Capim,2010
 150240,Castanhal (PA),42784,9126,1944,119139,156,173149,Guamá,2010
-150250,Chaves (PA),2269,1451,272,17013,0,21005,Marajó,2010
+150250,Chaves (PA),2269,1451,272,17013,-,21005,Marajó,2010
 150260,Colares (PA),2291,324,50,8687,29,11381,Guamá,2010
 150270,Conceição do Araguaia (PA),11068,4489,998,28855,147,45557,Araguaia,2010
 150275,Concórdia do Pará (PA),4190,2095,120,21809,2,28216,Rio Capim,2010
 150276,Cumaru do Norte (PA),2212,948,93,6012,1201,10466,Araguaia,2010
 150277,Curionópolis (PA),3824,1359,234,12860,11,18288,Carajás,2010
-150280,Curralinho (PA),3876,1114,44,23515,0,28549,Marajó,2010
+150280,Curralinho (PA),3876,1114,44,23515,-,28549,Marajó,2010
 150285,Curuá (PA),2267,698,75,9213,1,12254,Baixo Amazonas,2010
 150290,Curuçá (PA),6261,1293,146,26575,19,34294,Guamá,2010
 150293,Dom Eliseu (PA),10907,3992,700,35676,44,51319,Rio Capim,2010
@@ -61,7 +61,7 @@ Codigo,Municipio,Branca,Preta,Amarela,Parda,Indigena,Total,RI,Ano
 150375,Jacareacanga (PA),2209,2090,93,3868,5843,14103,Tapajós,2010
 150380,Jacundá (PA),12589,3959,403,34340,69,51360,Lago Tucuruí,2010
 150390,Juruti (PA),6340,1596,820,38230,100,47086,Baixo Amazonas,2010
-150400,Limoeiro do Ajuru (PA),5105,973,54,18889,0,25021,Tocantins,2010
+150400,Limoeiro do Ajuru (PA),5105,973,54,18889,-,25021,Tocantins,2010
 150405,Mãe do Rio (PA),6082,1425,395,19986,16,27904,Rio Capim,2010
 150410,Magalhães Barata (PA),1760,142,35,6177,1,8115,Guamá,2010
 150420,Marabá (PA),49012,18608,2419,163154,473,233669,Carajás,2010
@@ -76,7 +76,7 @@ Codigo,Municipio,Branca,Preta,Amarela,Parda,Indigena,Total,RI,Ano
 150490,Muaná (PA),6993,2114,214,24880,3,34204,Marajó,2010
 150495,Nova Esperança do Piriá (PA),3052,1043,137,15913,13,20158,Rio Capim,2010
 150497,Nova Ipixuna (PA),2773,1249,104,10489,30,14645,Lago Tucuruí,2010
-150500,Nova Timboteua (PA),2716,596,48,10310,0,13670,Rio Caeté,2010
+150500,Nova Timboteua (PA),2716,596,48,10310,-,13670,Rio Caeté,2010
 150503,Novo Progresso (PA),10594,2065,177,12180,108,25124,Tapajós,2010
 150506,Novo Repartimento (PA),13051,5135,705,42456,703,62050,Lago Tucuruí,2010
 150510,Óbidos (PA),9643,3633,391,35066,600,49333,Baixo Amazonas,2010
@@ -112,11 +112,11 @@ Codigo,Municipio,Branca,Preta,Amarela,Parda,Indigena,Total,RI,Ano
 150660,Santa Maria do Pará (PA),4648,722,138,17391,127,23026,Guamá,2010
 150670,Santana do Araguaia (PA),11814,6464,1494,36315,66,56153,Araguaia,2010
 150680,Santarém (PA),59895,15257,2730,214071,2627,294580,Baixo Amazonas,2010
-150690,Santarém Novo (PA),730,287,26,5098,0,6141,Rio Caeté,2010
+150690,Santarém Novo (PA),730,287,26,5098,-,6141,Rio Caeté,2010
 150700,Santo Antônio do Tauá (PA),5717,1212,238,19468,39,26674,Guamá,2010
 150710,São Caetano de Odivelas (PA),3183,381,34,13292,1,16891,Guamá,2010
 150715,São Domingos do Araguaia (PA),5244,2313,395,15165,13,23130,Carajás,2010
-150720,São Domingos do Capim (PA),3595,1777,116,24358,0,29846,Guamá,2010
+150720,São Domingos do Capim (PA),3595,1777,116,24358,-,29846,Guamá,2010
 150730,São Félix do Xingu (PA),22846,11018,1329,54853,1294,91340,Araguaia,2010
 150740,São Francisco do Pará (PA),2584,643,59,11773,1,15060,Guamá,2010
 150745,São Geraldo do Araguaia (PA),5669,2507,309,16797,305,25587,Carajás,2010
@@ -124,7 +124,7 @@ Codigo,Municipio,Branca,Preta,Amarela,Parda,Indigena,Total,RI,Ano
 150747,São João de Pirabas (PA),3814,1100,94,15637,2,20647,Rio Caeté,2010
 150750,São João do Araguaia (PA),2258,1317,151,9418,11,13155,Carajás,2010
 150760,São Miguel do Guamá (PA),5988,2873,240,42447,19,51567,Guamá,2010
-150770,São Sebastião da Boa Vista (PA),4154,420,40,18290,0,22904,Marajó,2010
+150770,São Sebastião da Boa Vista (PA),4154,420,40,18290,-,22904,Marajó,2010
 150775,Sapucaia (PA),1333,277,39,3391,7,5047,Araguaia,2010
 150780,Senador José Porfírio (PA),1785,1063,59,9700,438,13045,Xingu,2010
 150790,Soure (PA),3483,2944,270,16262,42,23001,Marajó,2010
